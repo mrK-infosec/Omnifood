@@ -1,6 +1,6 @@
 # Omnifood
 - Taste like never before With (HTML - CSS - JS)
-- ### [🔗 Live Demo link] (https://ornate-pixie-6f7fca.netlify.app/)
+- ### [🔗 Live Demo link](https://ornate-pixie-6f7fca.netlify.app/)
  
 ## Features :
 
